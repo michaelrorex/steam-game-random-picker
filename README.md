@@ -1,3 +1,4 @@
+v0.1.0
 # Steam Random Picker
 
 ## Introduction
